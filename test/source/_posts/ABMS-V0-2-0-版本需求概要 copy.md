@@ -90,4 +90,4 @@ author: bf39lj
 
 ---
 
-建议阅读官方文档：[https://support.huaweicloud.com/qs-idme/idme_qs_0001.html]
+建议阅读官方文档：[入口](https://support.huaweicloud.com/qs-idme/idme_qs_0001.html)
